@@ -1,5 +1,11 @@
 ---
-About me
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I'm a man without work at home. I obtained my M.E. of statistics from Central South University in 2023 and B.E. of Applied Mathematics from TaiYuan University of Technology in 2019.
@@ -9,4 +15,4 @@ My research interest includes statistics, machine learning method and deep learn
 For more info
 ------
 
-You can fine my [CV] for more information.
+You can fine my [CV]("../files.CV_Su_Ri.pdf") for more information.
