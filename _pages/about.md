@@ -12,6 +12,8 @@ I'm a man without work at home. I obtained my M.E. of statistics from Central So
 
 My research interest includes statistics, machine learning method and deep learning applications in Recommendation System and Medical Images
 
+I am proficient in Python programming and specialize in the application of the PyTorch deep learning framework. Additionally, I am experienced in using third-party packages, such as Matplotlib, Scikit-learn, and PyQt5, and am familiar with the Huawei FuxiCTR open-source framework. I have demonstrated my language proficiency by passing the CET-6 and spoken English tests, and have also obtained a score of 6.5 in the IELTS exam, meeting the school requirements. I have independently published two journal papers and two conference papers, demonstrating my research abilities and scientific paper writing skills.
+
 For more info
 ------
 
