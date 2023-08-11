@@ -4,7 +4,7 @@ title: "Award"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /award.html
 ---
 
 ## Awards during M.E.
