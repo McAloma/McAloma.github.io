@@ -1,14 +1,15 @@
 ---
 About me
 ---
+
 I'm a man without work at home. I obtained my M.E. of statistics from Central South University in 2023 and B.E. of Applied Mathematics from TaiYuan University of Technology in 2019.
 
 My research interest includes statistics, machine learning method and deep learning applications in Recommendation System and Medical Images
 
 For more info
 ------
-You can fine my [CV](../files/CV_Su_Ri.pdf) for more information.
 
+You can fine my [CV](../files/CV_Su_Ri.pdf) for more information.
 
 <div style='display: none'> 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
