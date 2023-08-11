@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in TaiYuan University of Technolgy, 2015-2019
+* M.S. in Central South University, 2020-2023
 
 Work experience
 ======
@@ -26,34 +25,19 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* (2022.09) National Scholarship (Postgraduates), Awarded by Ministry of Education of the People's Republic of China.
+* (2023.03) Outstanding graduate of Central South University (Postgraduate).
+* (2022.10) Outstanding Student in School of Mathematics and Statistics, Central South University.
+* (2021.12) 2021 Chian Mathematical Modeling Contest (Postgraduates) National third prize (40%).
+* (2016.05) One-Star volunteer, Awarded by China Foundation for Rural Development.
+* (2015.09) TYUT freshmen military training outstanding model.
   
-Talks
+Knowledge & Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Theoretical basis: Advanced algebra & mathematical statistics, Stochastic process; DL & ML knowleage；
+* Programming skills: Python (PyTorch, Pandas, plt, etc.), SQL (understanding), C++ (beginners), LaTex (proficient);
+* Deep learning: classic CTR model & MTL model, classic CNN model, tree structure machine learning model, etc.
+* Language skills: CET-6(pass), IELTS(6.5--Reading:7.5, Speaking:6.5);
