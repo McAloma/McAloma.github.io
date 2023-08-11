@@ -9,4 +9,4 @@ My research interest includes statistics, machine learning method and deep learn
 For more info
 ------
 
-You can fine my [CV](../files/CV_Su_Ri.pdf) for more information.
+You can fine my [CV] for more information.
