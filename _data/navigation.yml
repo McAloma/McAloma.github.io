@@ -15,5 +15,5 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
