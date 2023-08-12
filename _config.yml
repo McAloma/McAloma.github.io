@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "McAloma"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Su Ri"
 description              : &description "personal description"
 url                      : https://mcaloma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Su Ri"
   avatar           : "self.png"
-  bio              : "Shall Never Surrender."
+  bio              : "Research Assistant in Data-Driven Machine Learning Group, Hong Kong University of Science and Technology (Guangzhou)"
   location         : "China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/su-ri-9"
+  researchgate     : "https://www.researchgate.net/profile/Su-Ri" 
 
 
 # Reading Files
