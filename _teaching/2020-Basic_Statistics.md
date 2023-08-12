@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate testing course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Online"
-date: 2020.05-2020.09
+date: 2020.05
 location: "Changsha, China"
 ---
 
