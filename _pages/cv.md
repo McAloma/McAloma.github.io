@@ -11,20 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in TaiYuan University of Technolgy, 2015-2019
-* M.S. in Central South University, 2020-2023
+* M.S. of Statistics in Central South University, 2020-2023
+* B.S. of Applied Mathematics in TaiYuan University of Technolgy, 2015-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Control Software Engineer - Sany Heavy Industry (Crane), 2023.07-2023.08
+* Data Mining (Intern) - Bank of Hunan (Fintech Department), 2022.03-2022.09
 
 Awards
 ======
