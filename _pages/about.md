@@ -18,4 +18,4 @@ I am proficient in Python programming and specialize in the application of the P
 For more info
 ------
 
-You can fine my [CV]("../files.CV_Su_Ri.pdf") for more information.
+You can fine my [CV]("http://github.com/McAloma/mcaloma.github.io/files.CV_Su_Ri.pdf") for more information.
