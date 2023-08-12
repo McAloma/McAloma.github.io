@@ -1,5 +1,5 @@
 ---
-title: "Basketball Group in CSU"
-excerpt: "Central South University School of Mathematics and Statistics basketball brothers team<br/><img src='/images/2023.6.19.png'>"
-collection: portfolio
+title: "Research Group of Prof.Hou MZ in CSU"
+excerpt: "Professor Hou Muzhou Medical Imaging and Big Data Research Group, School of Mathematics and Statistics, Central South University<br/><img src='/images/ME_group.png'>"
+collection: experience
 ---
