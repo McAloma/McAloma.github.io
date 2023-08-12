@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message', 'zhihu']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'email', 'message', 'zhihu']
   transforms:
     email                : "md5"
   generatedFields:
@@ -83,8 +83,8 @@ author:
   name             : "Su Ri"
   avatar           : "self.png"
   bio              : "Research Assistant in Data-Driven Machine Learning Group, Hong Kong University of Science and Technology (Guangzhou)"
-  location         : "China"
-  employer         :
+  location         : "Guangzhou, China"
+  employer         : "HKUST(GZ)"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  "suriincsu@gmail.com"
