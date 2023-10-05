@@ -7,7 +7,10 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /news/      
+    url: /news/     
+
+  - title: "Blog Pages"
+    url: /blog_pages/    
         
   - title: "Teaching"
     url: /teaching/  
