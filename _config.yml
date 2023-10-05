@@ -232,7 +232,7 @@ defaults:
   # _blogPages
   - scope:
       path: ""
-      type: blogPages
+      type: blog_pages
     values:
       layout: single
       author_profile: true
