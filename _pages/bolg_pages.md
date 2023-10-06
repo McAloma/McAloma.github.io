@@ -11,7 +11,7 @@ redirect_from:
 
 These are the best posts I think I have written on open forums or websites, welcome your criticism and correction.
 
-### Zhihu
+### Zhihu (CN)
 
 * 2023-10-05: \[[Learning with Noise Label (LNL) Summary of Current Research](https://zhuanlan.zhihu.com/p/659648094)\]
 * 2022-06-23: \[[Recommended System Basic Knowledge Comprehensive Column](https://zhuanlan.zhihu.com/p/447777342)\]
