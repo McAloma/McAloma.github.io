@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Research Assistant in HKUST(GZ). I obtained my M.E. of statistics from Central South University (CSU) in 2023 and B.E. of Applied Mathematics from TaiYuan University of Technology (TYUT) in 2019.
+I am currently working as a Research Assistant in HKUST(GZ) in Medical Joint Lab of Prof.Lei CHEN. I obtained my M.E. of statistics from Central South University (CSU) with Prof.Muzhou HOU in 2023, and B.E. of Applied Mathematics from TaiYuan University of Technology (TYUT) in 2019.
 
 My research interest includes statistics in machine learning method, dataset evaluation and qualification, learning with noise labels (LNL) and deep learning applications in Recommendation System and Medical Images
 

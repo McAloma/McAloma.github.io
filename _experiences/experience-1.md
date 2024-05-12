@@ -1,6 +1,6 @@
 ---
-title: "Research Group in CSU"
-excerpt: "Medical Imaging and Big Data Research Group of Prof.Hou MZ"
+title: "Postgraduate study in CSU"
+excerpt: "Medical Imaging and Big Data Research Group of Prof.Muzhou HOU"
 collection: portfolio
 ---
 
