@@ -13,9 +13,10 @@ redirect_from:
 
 * M.S. of Statistics in Central South University, 2020-2023
 * B.S. of Applied Mathematics in TaiYuan University of Technolgy, 2015-2019
+* PhD of Data Science and Analysis in Hong Kong University of Science and Technology (GuangZhou), 2024-
 
 ### 2. Work experience
-* Research Assisitent - Hong Kong University of Science and Technology (GuangZhou), 2023.09-now
+* Research Assisitent - Hong Kong University of Science and Technology (GuangZhou), 2023.09-2024.08
 * Control Software Engineer - Sany Heavy Industry (Crane), 2023.07-2023.08
 * Data Mining (Intern) - Bank of Hunan (Fintech Department), 2022.03-2022.09
 
